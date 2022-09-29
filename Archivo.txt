@@ -1,0 +1,12 @@
+Nombre: SERGIO ANDRES VARGAS MURCIA
+ROL: QA JUNIOR
+
+1. Con que comando puedo crear un repositorio remoto y enlazarlo a un repositorio local?.
+Rta: git remote add + url 
+
+2. Con cual comando puedo realizar un listado de commit? 
+rta: git log --oneline
+
+3. Con que comando puedo establecer un alias?
+rta: git config --global alias. + "el alias" + "Nombre del comando" 
+ejemplo: git config --goblal alias.br branch
