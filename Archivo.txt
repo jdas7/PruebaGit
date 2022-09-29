@@ -1,0 +1,5 @@
+Nombre: Andrea Sierra
+Rol: MID QA
+- git remote add aliasorigin <URL>
+- git log --oneline
+- git config --global alias.xxx
