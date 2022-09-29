@@ -1,0 +1,17 @@
+Nombre: Laura
+Rol: Qa Junior
+
+Con que comando puedo crear un repositorio remoto y enlazarlo a un repositorio local?.
+
+Git remote add origin + URL
+
+
+Con cual comando puedo realizar un listado de commit?
+
+Git log --oneline --decorate --graph
+Git log -3
+
+Con que comando puedo establecer un alias?
+
+git remote rename origin Nuevo
+git config --global alias. + "el alias" + "Nombre del comando"
